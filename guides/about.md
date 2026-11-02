@@ -1,6 +1,7 @@
 # About MafA Discovery
 
 An interactive genomic explorer for MafA transcription factor binding peaks, strain-divergent variants, differential gene expression, and F2 glycemic QTL loci in C57BL/6J and SJL/J mouse models.
+See [Jeeyeon Cha Lab Website](https://www.cha-lab.org)
 
 * [Research Overview](#research-overview)
 * [Methods](#methods)
