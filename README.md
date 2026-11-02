@@ -1,6 +1,7 @@
 # MafA Discovery: Integrated Genomic Explorer
 
 An interactive R Shiny application for exploring MafA transcription factor binding peaks, strain-divergent genetic variants between C57BL/6J (B6) and SJL/J mice, and downstream differential gene expression (DEGs).
+See [Jeeyeon Cha Lab Website](https://www.cha-lab.org)
 
 * [Overview](#overview)
 * [Repository Structure](#repository-structure)
