@@ -9,7 +9,7 @@
 # Architectural guide & checklist: https://byandell.github.io/DocumentTools/prompts/move_repo.html
 
 GITHUB_CONFIG <- list(
-  owner  = "byandell",          # GitHub user or organization
+  owner  = "Chalab2022",          # GitHub user or organization
   repo   = "MafADiscovery",     # Repository name
   branch = "main"               # Default production branch
 )
